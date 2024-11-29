@@ -4,14 +4,14 @@ This project utilizes machine learning techniques to cluster music tracks based 
 
 ## Table of Contents
 
-* *Introduction*
-* *Requirements*
-* *Installation*
-* *Usage*
-* *Project Structure*
-* *Results*
-* *Contributing*
-* *License*
+* **Introduction**
+* **Requirements**
+* **Installation**
+* **Usage**
+* **Project Structure**
+* **Results**
+* **Contributing**
+* **License**
   
 ## Introduction
 The objective of this project is to apply clustering algorithms to a dataset of music tracks, enabling the grouping of songs with similar audio characteristics. This approach can be beneficial for music recommendation systems and genre analysis.
