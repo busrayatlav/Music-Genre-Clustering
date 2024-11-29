@@ -60,14 +60,23 @@ python main.py
 The project is organized as follows:
 
 ├── data
+
 │   └── Spotify-2000.csv   # Dataset file
+
 ├── notebooks
+
 │   └── clustering.ipynb   # Jupyter notebook with clustering analysis
+
 ├── src
+
 │   ├── data_preprocessing.py   # Data preprocessing functions
+
 │   ├── clustering.py           # Clustering algorithms
+
 │   └── visualization.py        # Visualization functions
+
 ├── README.md
+
 └── requirements.txt
 
 
