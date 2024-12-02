@@ -26,25 +26,25 @@ The objective of this project is to apply clustering algorithms to a dataset of 
 * seaborn
   
 2. Install the required libraries using pip:
-///
+```
 pip install pandas numpy scikit-learn matplotlib seaborn
-///
+```
 
 ## Installation
 1. Clone the repository:
-///
+```
 git clone https://github.com/yourusername/your-repo-name.git
-///
+```
 
 2. Navigate to the project directory:
-///
+```
 cd your-repo-name
-///
+```
 
 3. Install the dependencies:
-///
+```
 pip install -r requirements.txt
-///
+```
 
 ## Usage
 
