@@ -18,42 +18,42 @@ The objective of this project is to apply clustering algorithms to a dataset of 
 
 ## Requirements
 
-Ensure the following Python libraries are installed:
+1. Ensure the following Python libraries are installed:
 * pandas
 * numpy
 * scikit-learn
 * matplotlib
 * seaborn
   
-Install the required libraries using pip:
->
+2. Install the required libraries using pip:
+///
 pip install pandas numpy scikit-learn matplotlib seaborn
->
+///
 
 ## Installation
-Clone the repository:
->
+1. Clone the repository:
+///
 git clone https://github.com/yourusername/your-repo-name.git
->
+///
 
-Navigate to the project directory:
->
+2. Navigate to the project directory:
+///
 cd your-repo-name
->
+///
 
-Install the dependencies:
->
+3. Install the dependencies:
+///
 pip install -r requirements.txt
->
+///
 
 ## Usage
 
-Place the dataset (Spotify-2000.csv) into the data directory.
+1. Place the dataset (Spotify-2000.csv) into the data directory.
 
-Run the main script to perform clustering:
->
+2. Run the main script to perform clustering:
+///
 python main.py
->
+///
 
 ## Project Structure
 
