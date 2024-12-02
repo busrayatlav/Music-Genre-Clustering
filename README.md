@@ -57,11 +57,10 @@ pip install -r requirements.txt
 python main.py
 ```
 
-
 ## Project Structure
 
 The project is organized as follows:
-```
+
 ├── data
 
 │   └── Spotify-2000.csv   # Dataset file
@@ -81,7 +80,6 @@ The project is organized as follows:
 ├── README.md
 
 └── requirements.txt
-```
 
 
 ## Results
