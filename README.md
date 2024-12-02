@@ -12,8 +12,9 @@ This project utilizes machine learning techniques to cluster music tracks based 
 * **Results**
 * **Contributing**
 * **License**
-  
+
 ## Introduction
+
 The objective of this project is to apply clustering algorithms to a dataset of music tracks, enabling the grouping of songs with similar audio characteristics. This approach can be beneficial for music recommendation systems and genre analysis.
 
 ## Requirements
@@ -31,6 +32,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ```
 
 ## Installation
+
 1. Clone the repository:
 ```
 git clone https://github.com/yourusername/your-repo-name.git
@@ -81,10 +83,13 @@ The project is organized as follows:
 
 
 ## Results
+
 The clustering analysis groups music tracks into clusters based on their audio features. Visualizations of the clusters are provided in the notebooks/clustering.ipynb file.
 
 ## Contributing
+
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
 
 ## License
-This project is licensed under the MIT License.
+
+This project is licensed under the [MIT License](LICENSE).
