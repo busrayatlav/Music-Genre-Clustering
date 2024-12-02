@@ -48,12 +48,12 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Place the dataset (Spotify-2000.csv) into the data directory.
+1. Place the dataset **(Spotify-2000.csv)** into the data directory.
 
 2. Run the main script to perform clustering:
-///
+```
 python main.py
-///
+```
 
 ## Project Structure
 
