@@ -53,14 +53,14 @@ pip install -r requirements.txt
 1. Place the dataset **(Spotify-2000.csv)** into the data directory.
 
 2. Run the main script to perform clustering:
-
+```
 python main.py
 ```
 
 ## Project Structure
 
 The project is organized as follows:
-
+```
 ├── data
 
 │   └── Spotify-2000.csv   # Dataset file
@@ -80,7 +80,7 @@ The project is organized as follows:
 ├── README.md
 
 └── requirements.txt
-
+```
 
 ## Results
 
